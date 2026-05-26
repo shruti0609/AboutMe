@@ -1,5 +1,5 @@
 Hi there 👋  
-I'm Shruti, a Software Developer with 3+ years of experience in backend development, currently working at Citibank and previously at Capgemini.
+I'm Shruti, a Software Developer with 4+ years of experience in backend development, currently working at Citibank and previously at Capgemini.
 
 💼 Experienced in building scalable microservices using Java, Spring Boot, Kafka, and REST APIs  
 🏗️ Strong understanding of Distributed Systems, Multithreading, and Performance Optimization  
